@@ -2,7 +2,11 @@
 """
 Created on Tue Oct 25 18:18:11 2022
 
-@author: spltd
+@author: CHpaco
+
+this program does alot of math and spits out its calculations through the console. I can and should make a better version where it formats the 
+answers more neatly and puts them into a file on the desktop for easier readablity
+
 """
 import math
 theta =45
